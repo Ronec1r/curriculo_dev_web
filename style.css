@@ -1,0 +1,67 @@
+.container{
+    height: max-content;
+    align-content: center;
+    background-color: white;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    padding-left: 30px;
+    padding-right: 30px;
+  
+}
+
+hr{
+    background-color: white;
+}
+
+body{
+    background-color: #5c9ea4;
+    align-content: center;
+}
+
+svg{
+    padding-left: 2px;
+}
+
+h3{
+    background-color: #6c767c;
+    color: white;
+}
+
+h6{
+    color:rgb(155, 152, 152)
+}
+
+p{
+    font-size: 23px;
+}
+
+a{
+    color: white;
+}
+
+.qrcode{
+    text-align: center;
+}
+
+.rounded-circle {
+    border-radius: 50%;
+}
+
+.pessoal{
+    background-color: #6c767c;
+    color: white;
+    padding-top: 4%;
+    text-align: justify;
+    margin-bottom:8%;
+}
+
+.perfil{
+    text-align: center;
+}
+
+.curriculum{
+    color: black;
+    text-align: justify;
+}
+
+
